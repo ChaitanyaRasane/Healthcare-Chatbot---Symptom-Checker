@@ -139,4 +139,4 @@ MIT License
 ## Contact
 
 Created by **Chaitanya Rasane**.  
-If you have any questions or feedback, you can reach me at `<your_email@example.com>` or via GitHub.
+If you have any questions or feedback, you can reach me at `rasanechaitanya@gmail.com` or via GitHub.
