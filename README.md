@@ -90,7 +90,7 @@ Healthcare-Chatbot---Symptom-Checker/
 ├── utils.py             # Utility/helper functions
 ├── requirements.txt     # Python packages required
 ├── .gitignore
-└── Chaitu.md            # Miscellaneous / Notes
+└── Readme.md            # Miscellaneous / Notes
 ```
 
 ---
