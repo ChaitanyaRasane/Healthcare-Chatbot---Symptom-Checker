@@ -59,7 +59,7 @@ A friendly healthcare chatbot that helps people understand their health better b
 4. Run the application:
 
    ```bash
-   python app.py
+   streamlit run app.py
    ```
 
 ---
